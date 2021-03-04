@@ -1,0 +1,23 @@
+{
+  "name": "vue-starter",
+  "version": "0.0.0",
+  "description": "Starter for VUE applications",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffey23/vue-starter.git"
+  },
+  "keywords": [
+    "vue",
+    "starter"
+  ],
+  "author": "Filip Fey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffey23/vue-starter/issues"
+  },
+  "homepage": "https://github.com/ffey23/vue-starter#readme"
+}
